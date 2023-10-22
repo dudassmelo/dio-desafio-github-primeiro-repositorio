@@ -1,8 +1,6 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de Projeto Git/GitHub, criação do primeiro repositório.
-
 # Meus Primeiros Projetos no GitHub
 
+Desafio de Projeto Git/GitHub, criação do primeiro repositório.
 Bem-vindo ao meu primeiro repositório no GitHub! Aqui, você encontrará alguns dos meus primeiros trabalhos e projetos de aprendizado.
 
 ## Como Contribuir
